@@ -43,6 +43,6 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-If you have any questions, feedback, or suggestions, feel free to reach out to the project maintainer at [your_email@example.com](mailto:vikkasharun2205@gmail.com).
+If you have any questions, feedback, or suggestions, feel free to reach out to the project maintainer at [vikkasharun2205@gmail.com](mailto:vikkasharun2205@gmail.com).
 
 Happy Chatbotting!
